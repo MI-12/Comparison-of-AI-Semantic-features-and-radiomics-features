@@ -23,5 +23,4 @@
 
 * LinearClassifier.R: Classification based on the features extracted by the BigBiGAN.
 
-![]
-(https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif) 
+![Flowchart](https://github.com/MI-12/hello-world/blob/master/Fig.Framework.tif) 
