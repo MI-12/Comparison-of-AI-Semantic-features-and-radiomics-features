@@ -17,3 +17,5 @@ VGG19: VGG feature extraction.
 Weight_Init: Initialization of the network.
 
 BigBiGAN_Learning: Training of the BigBiGAN for sementic feature extraction.
+
+LinearClassifier.R: Classification based on the features extracted by the BigBiGAN.
