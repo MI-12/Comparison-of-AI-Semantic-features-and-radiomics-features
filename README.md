@@ -1,5 +1,5 @@
 # Unet_and_BigBiGAN_for_COVID-19
-## The source code of Unet for pneumonia lesion segmentation, and BigBiGAN training for semantic feature extreaction.
+### The source code of Unet for pneumonia lesion segmentation, and BigBiGAN training for semantic feature extreaction.
 
 ### In order to achieve reproducibility, please execute the following code in the order mentioned in the paper: Unet-BibBiGAN-Linear Classifier.
 
