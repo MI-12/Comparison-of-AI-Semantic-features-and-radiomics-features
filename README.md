@@ -22,5 +22,3 @@
 * BigBiGAN_Learning: Training of the BigBiGAN for sementic feature extraction.
 
 * LinearClassifier.R: Classification based on the features extracted by the BigBiGAN.
-
-![Flowchart](https://github.com/MI-12/hello-world/blob/master/Fig.Framework.tif) 
